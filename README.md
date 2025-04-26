@@ -26,7 +26,7 @@ This project analyzes subscription patterns from a bank marketing campaign datas
 
 ### Subscription Success Rate by Education Level
 
-![Subscription Success by Education](subscription_by_education.png)
+![Subscription Success by Education](SST.png)
 
 ---
 
